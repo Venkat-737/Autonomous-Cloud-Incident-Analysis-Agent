@@ -2,10 +2,10 @@
 
 > Refracting system noise into actionable clarity.
 
-![Incident Analysis](assets/incident-analysis.png)
-![Analysis Result](assets/analysis.png)
-![History](assets/history.png)
-![Settings](assets/settings.png)
+![Incident Analysis](frontend/src/assets/incident-analysis.png)
+![Analysis Result](frontend/src/assets/analysis.png)
+![History](frontend/src/assets/history.png)
+![Settings](frontend/src/assets/settings.png)
 
 **Autonomous Cloud Incident Analysis Agent** is an advanced, AI-powered engineering co-pilot designed to autonomously diagnose issues across a distributed, multi-cloud environment.
 
