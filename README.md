@@ -2,10 +2,10 @@
 
 > Refracting system noise into actionable clarity.
 
+![Incident Analysis](assets/incident-analysis.png)
 ![Analysis Result](assets/analysis.png)
-![Incident Analysis](incident-analysis/.png)
 ![History](assets/history.png)
-![Settings and Configuration](assets/settings.png)
+![Settings](assets/settings.png)
 
 **Autonomous Cloud Incident Analysis Agent** is an advanced, AI-powered engineering co-pilot designed to autonomously diagnose issues across a distributed, multi-cloud environment.
 
@@ -161,7 +161,3 @@ We have a helper script to start all services (Backend + 3 MCP Servers) at once.
 
 Open `http://localhost:3000` in your browser to start using Autonomous Cloud Incident Analysis Agent.
 
-
-
-```
-```
